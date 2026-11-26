@@ -4,7 +4,7 @@
   <img alt="Turn-Based Game Platform — real-time turn-based board games on .NET microservices" src="https://github.com/turn-based-game-platform/.github/raw/main/profile/banner-dark.png">
 </picture>
 
-Online board games, turn by turn. Tic-tac-toe, battleship and reversi today, played live in the browser
+Online board games, turn by turn. Tic-tac-toe, battleship and reversi today, built to be played live in the browser
 with player-to-player chat; lobbies, an admin panel and player progression come next. The server owns every
 rule, and each player sees the game through their own eyes, pushed to them in real time.
 
