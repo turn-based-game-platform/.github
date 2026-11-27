@@ -39,4 +39,5 @@ security and a test kit, each proven once: [**platform-shared**](https://github.
 ### Status
 
 The backend is complete and tested, and runs on its server from signed releases; the web app comes next. The
-repositories are private for now and open together with the platform.
+repositories are private for now and open together with the platform. What has shipped and what comes next: the
+[roadmap](https://github.com/turn-based-game-platform/.github/blob/main/profile/ROADMAP.md).
