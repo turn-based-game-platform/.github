@@ -5,17 +5,17 @@ Plans can change; the order and the content of a release may move.
 
 ## Shipped
 
+- **0.3.0 — Server-authoritative games.** Tic-tac-toe, battleship and reversi: the server owns every rule, each player
+  sees the board through their own eyes, every move is pushed to the players in real time.
+- **0.4.0 — The foundation.** Registration with email confirmation and sign-in on the platform's own pages, protected
+  against password guessing; one error format the apps can translate; lists that page through any amount of data;
+  avatars; bans and account deactivation; the owner appoints the admins.
+- **0.4.1 — The platform as a release.** The whole platform starts with one command from its released images, each
+  pinned; every release is played through end to end — players registering, chatting and playing — before it ships.
 - **0.4.2 — A correctness and security pass over every service.** Nothing answers without a sign-in unless it is meant
   to; someone else's game, chat, invitation or profile answers "not found", so a stranger learns nothing about it; a
   request's size is bounded; a game refuses a move its rules do not know; a board or a profile is never shown out of
   date.
-- **0.4.1 — The platform as a release.** The whole platform starts with one command from its released images, each
-  pinned; every release is played through end to end — players registering, chatting and playing — before it ships.
-- **0.4.0 — The foundation.** Registration with email confirmation and sign-in on the platform's own pages, protected
-  against password guessing; one error format the apps can translate; lists that page through any amount of data;
-  avatars; bans and account deactivation; the owner appoints the admins.
-- **0.3.0 — Server-authoritative games.** Tic-tac-toe, battleship and reversi: the server owns every rule, each player
-  sees the board through their own eyes, every move is pushed to the players in real time.
 
 ## Now — 0.4.3
 
